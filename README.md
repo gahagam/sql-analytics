@@ -57,9 +57,8 @@ sql-analytics/
 ├── README.md                         # Описание проекта
 │
 ├── database/
-│   ├── schema.sql                    # Создание таблиц 
-│   └── data.sql                      # Заполнение данными 
+│   ├── schema.sql                    # Создание таблиц
+│   └── data.sql                      # Заполнение данными
 │
-├── queries/
-│  └── queries.sql                   # Все аналитические запросы
-
+└── queries/
+    └── queries.sql                   # Все аналитические запросы
