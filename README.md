@@ -52,10 +52,15 @@
 
 ## Структура проекта
 
+```
 sql-analytics/
+│
 ├── README.md
+│
 ├── database/
 │   ├── schema.sql
 │   └── data.sql
+│
 └── queries/
     └── queries.sql
+```
