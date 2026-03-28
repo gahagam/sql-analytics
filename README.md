@@ -53,12 +53,9 @@
 ## Структура проекта
 
 sql-analytics/
-│
-├── README.md                         # Описание проекта
-│
+├── README.md
 ├── database/
-│   ├── schema.sql                    # Создание таблиц
-│   └── data.sql                      # Заполнение данными
-│
+│   ├── schema.sql
+│   └── data.sql
 └── queries/
-    └── queries.sql                   # Все аналитические запросы
+    └── queries.sql
